@@ -18,7 +18,7 @@ skills/
       SKILL.md
 ```
 
-Current categories: `authoring`, `workflow`. Add a category only when several skills share a new purpose.
+Current categories: `authoring`, `workflow`, `cpp`. Add a category only when several skills share a new purpose.
 
 ## SKILL.md shape
 

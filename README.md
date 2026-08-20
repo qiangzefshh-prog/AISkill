@@ -11,6 +11,7 @@ skills/
   catalog.md                 # wiki index: category + tags
   authoring/                 # how to write and publish skills
   workflow/                  # git and review habits
+  cpp/                       # C and C++ write, build, review, debug
 ```
 
 ## Skills
@@ -30,6 +31,16 @@ skills/
 | [commit-message](skills/workflow/commit-message/SKILL.md) | git, conventional-commits | Write a conventional commit |
 | [code-review](skills/workflow/code-review/SKILL.md) | review, diff | Review a skill or docs diff |
 | [issue-triage](skills/workflow/issue-triage/SKILL.md) | github, labels | Sort an issue by title and labels |
+
+### cpp
+
+| Skill | Tags | Summary |
+| --- | --- | --- |
+| [c-interop](skills/cpp/c-interop/SKILL.md) | c, abi, extern-c | Keep C/C++ ABI and dual-language headers safe |
+| [cmake-build](skills/cpp/cmake-build/SKILL.md) | cmake, build, ctest | Configure, build, and test without host paths |
+| [cpp-debug](skills/cpp/cpp-debug/SKILL.md) | asan, ubsan, gdb | Reproduce with sanitizers before guessing |
+| [cpp-review](skills/cpp/cpp-review/SKILL.md) | review, ub, safety | Review a C/C++ diff for UB and lifetime bugs |
+| [modern-cpp](skills/cpp/modern-cpp/SKILL.md) | cxx, raii, ownership | Write C++ with ownership visible in the types |
 
 ## Use a skill
 
