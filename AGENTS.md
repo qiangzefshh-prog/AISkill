@@ -62,6 +62,8 @@ If a local checkout has private agent notes, keep them in `AGENTS.local.md` (git
 
 ## Workflow
 
+The full add-a-skill path is `skills/authoring/make-skill/SKILL.md`. Writing quality is `skills/authoring/skill-authoring/SKILL.md`.
+
 1. Add or edit `skills/<category>/<name>/SKILL.md`.
 2. Update `skills/catalog.md`.
 3. Run the checks in `skills/authoring/publish-check/SKILL.md`.

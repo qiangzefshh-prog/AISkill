@@ -10,9 +10,10 @@ How to write skills and keep the catalog honest.
 
 | Name | Tags | Summary |
 | --- | --- | --- |
+| [make-skill](authoring/make-skill/SKILL.md) | authoring, publish, git | Add a skill from idea through catalog, check, commit, and push |
+| [publish-check](authoring/publish-check/SKILL.md) | safety, gitignore | Scan a change for leaks before commit |
 | [skill-authoring](authoring/skill-authoring/SKILL.md) | writing, frontmatter | Write a `SKILL.md` that matches the catalog shape |
 | [wiki-page](authoring/wiki-page/SKILL.md) | catalog, index | Add, move, or remove a catalog row |
-| [publish-check](authoring/publish-check/SKILL.md) | safety, gitignore | Scan a change for leaks before commit |
 
 ## workflow
 

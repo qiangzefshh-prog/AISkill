@@ -20,9 +20,10 @@ skills/
 
 | Skill | Tags | Summary |
 | --- | --- | --- |
+| [make-skill](skills/authoring/make-skill/SKILL.md) | authoring, publish, git | Add a skill from idea through commit and push |
+| [publish-check](skills/authoring/publish-check/SKILL.md) | safety, gitignore | Check a change before you commit |
 | [skill-authoring](skills/authoring/skill-authoring/SKILL.md) | writing, frontmatter | Write a skill that fits this catalog |
 | [wiki-page](skills/authoring/wiki-page/SKILL.md) | catalog, index | Add or update a catalog row |
-| [publish-check](skills/authoring/publish-check/SKILL.md) | safety, gitignore | Check a change before you commit |
 
 ### workflow
 
