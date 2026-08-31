@@ -32,6 +32,7 @@ skills/
 | [commit-message](skills/workflow/commit-message/SKILL.md) | git, conventional-commits | Write a conventional commit |
 | [code-review](skills/workflow/code-review/SKILL.md) | review, diff | Review a skill or docs diff |
 | [issue-triage](skills/workflow/issue-triage/SKILL.md) | github, labels | Sort an issue by title and labels |
+| [tech-translation](skills/workflow/tech-translation/SKILL.md) | translation, documentation, localization | Translate technical docs and strings while preserving structure and terminology |
 
 ### cpp
 
