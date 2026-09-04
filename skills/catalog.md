@@ -23,6 +23,7 @@ Everyday git and review work.
 | --- | --- | --- |
 | [commit-message](workflow/commit-message/SKILL.md) | git, conventional-commits | Turn a diff into a conventional commit message |
 | [code-review](workflow/code-review/SKILL.md) | review, diff | Review a skill or docs patch |
+| [git-bisect](workflow/git-bisect/SKILL.md) | git, bisect, debug | Find the commit that introduced a bug using binary search |
 | [issue-triage](workflow/issue-triage/SKILL.md) | github, labels | Classify an issue from its title and labels |
 | [tech-translation](workflow/tech-translation/SKILL.md) | translation, documentation, localization | Translate technical docs and strings while preserving structure and terminology |
 
