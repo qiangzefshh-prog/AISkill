@@ -38,7 +38,7 @@ tags: [tag-a, tag-b]
 Rules:
 
 - `name` equals the folder name (lowercase kebab-case)
-- `category` equals the parent folder (`authoring`, `workflow`, or `cpp` unless a new category is justified)
+- `category` equals the parent folder (`authoring`, `workflow`, `cpp`, or `python` unless a new category is justified)
 - `description` is one or two sentences, enough for an agent to decide to load it
 - tags are short, lowercase, kebab-case
 - body stays general: purpose, when, steps, examples

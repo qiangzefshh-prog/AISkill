@@ -21,10 +21,12 @@ Everyday git and review work.
 
 | Name | Tags | Summary |
 | --- | --- | --- |
-| [commit-message](workflow/commit-message/SKILL.md) | git, conventional-commits | Turn a diff into a conventional commit message |
+| [changelog](workflow/changelog/SKILL.md) | changelog, release, conventional-commits | Draft a changelog section from conventional commits since the last release |
 | [code-review](workflow/code-review/SKILL.md) | review, diff | Review a skill or docs patch |
+| [commit-message](workflow/commit-message/SKILL.md) | git, conventional-commits | Turn a diff into a conventional commit message |
 | [git-bisect](workflow/git-bisect/SKILL.md) | git, bisect, debug | Find the commit that introduced a bug using binary search |
 | [issue-triage](workflow/issue-triage/SKILL.md) | github, labels | Classify an issue from its title and labels |
+| [pr-description](workflow/pr-description/SKILL.md) | github, pull-request | Write a pull request title and body from the branch diff and commits |
 | [tech-translation](workflow/tech-translation/SKILL.md) | translation, documentation, localization | Translate technical docs and strings while preserving structure and terminology |
 
 ## cpp
@@ -38,3 +40,12 @@ C and C++ work: write, build, review, debug, and the language boundary.
 | [cpp-debug](cpp/cpp-debug/SKILL.md) | asan, ubsan, gdb | Reproduce with sanitizers and a debugger before guessing |
 | [cpp-review](cpp/cpp-review/SKILL.md) | review, ub, safety | Review a C/C++ diff for UB, lifetime, and races |
 | [modern-cpp](cpp/modern-cpp/SKILL.md) | cxx, raii, ownership | Write C++ with ownership and const in the types |
+
+## python
+
+Python work: review patches and run tests the way the repo already does.
+
+| Name | Tags | Summary |
+| --- | --- | --- |
+| [pytest](python/pytest/SKILL.md) | pytest, testing, python | Run and write pytest tests using the project’s existing config |
+| [python-review](python/python-review/SKILL.md) | review, python, testing | Review a Python diff for bugs, API misuse, missing tests, and dependency changes |

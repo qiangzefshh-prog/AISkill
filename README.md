@@ -12,6 +12,7 @@ skills/
   authoring/                 # how to write and publish skills
   workflow/                  # git and review habits
   cpp/                       # C and C++ write, build, review, debug
+  python/                    # Python review and tests
 ```
 
 ## Skills
@@ -29,10 +30,12 @@ skills/
 
 | Skill | Tags | Summary |
 | --- | --- | --- |
-| [commit-message](skills/workflow/commit-message/SKILL.md) | git, conventional-commits | Write a conventional commit |
+| [changelog](skills/workflow/changelog/SKILL.md) | changelog, release, conventional-commits | Draft a changelog section from conventional commits |
 | [code-review](skills/workflow/code-review/SKILL.md) | review, diff | Review a skill or docs diff |
+| [commit-message](skills/workflow/commit-message/SKILL.md) | git, conventional-commits | Write a conventional commit |
 | [git-bisect](skills/workflow/git-bisect/SKILL.md) | git, bisect, debug | Find the commit that introduced a bug using binary search |
 | [issue-triage](skills/workflow/issue-triage/SKILL.md) | github, labels | Sort an issue by title and labels |
+| [pr-description](skills/workflow/pr-description/SKILL.md) | github, pull-request | Write a pull request title and body from the branch diff |
 | [tech-translation](skills/workflow/tech-translation/SKILL.md) | translation, documentation, localization | Translate technical docs and strings while preserving structure and terminology |
 
 ### cpp
@@ -44,6 +47,13 @@ skills/
 | [cpp-debug](skills/cpp/cpp-debug/SKILL.md) | asan, ubsan, gdb | Reproduce with sanitizers before guessing |
 | [cpp-review](skills/cpp/cpp-review/SKILL.md) | review, ub, safety | Review a C/C++ diff for UB and lifetime bugs |
 | [modern-cpp](skills/cpp/modern-cpp/SKILL.md) | cxx, raii, ownership | Write C++ with ownership visible in the types |
+
+### python
+
+| Skill | Tags | Summary |
+| --- | --- | --- |
+| [pytest](skills/python/pytest/SKILL.md) | pytest, testing, python | Run and write pytest tests using the project’s existing config |
+| [python-review](skills/python/python-review/SKILL.md) | review, python, testing | Review a Python diff for bugs, API misuse, and missing tests |
 
 ## Use a skill
 
