@@ -26,6 +26,7 @@ Everyday git and review work.
 | [commit-message](workflow/commit-message/SKILL.md) | git, conventional-commits | Turn a diff into a conventional commit message |
 | [git-bisect](workflow/git-bisect/SKILL.md) | git, bisect, debug | Find the commit that introduced a bug using binary search |
 | [issue-triage](workflow/issue-triage/SKILL.md) | github, labels | Classify an issue from its title and labels |
+| [open-pr](workflow/open-pr/SKILL.md) | github, pull-request, git | Push the current branch and open a pull request |
 | [pr-description](workflow/pr-description/SKILL.md) | github, pull-request | Write a pull request title and body from the branch diff and commits |
 | [tech-translation](workflow/tech-translation/SKILL.md) | translation, documentation, localization | Translate technical docs and strings while preserving structure and terminology |
 

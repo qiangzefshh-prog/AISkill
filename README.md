@@ -35,6 +35,7 @@ skills/
 | [commit-message](skills/workflow/commit-message/SKILL.md) | git, conventional-commits | Write a conventional commit |
 | [git-bisect](skills/workflow/git-bisect/SKILL.md) | git, bisect, debug | Find the commit that introduced a bug using binary search |
 | [issue-triage](skills/workflow/issue-triage/SKILL.md) | github, labels | Sort an issue by title and labels |
+| [open-pr](skills/workflow/open-pr/SKILL.md) | github, pull-request, git | Push a branch and open a pull request |
 | [pr-description](skills/workflow/pr-description/SKILL.md) | github, pull-request | Write a pull request title and body from the branch diff |
 | [tech-translation](skills/workflow/tech-translation/SKILL.md) | translation, documentation, localization | Translate technical docs and strings while preserving structure and terminology |
 
