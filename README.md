@@ -13,6 +13,7 @@ skills/
   workflow/                  # git and review habits
   cpp/                       # C and C++ write, build, review, debug
   python/                    # Python review and tests
+  shell/                     # POSIX and bash scripts, and shell review
 ```
 
 ## Skills
@@ -55,6 +56,13 @@ skills/
 | --- | --- | --- |
 | [pytest](skills/python/pytest/SKILL.md) | pytest, testing, python | Run and write pytest tests using the project’s existing config |
 | [python-review](skills/python/python-review/SKILL.md) | review, python, testing | Review a Python diff for bugs, API misuse, and missing tests |
+
+### shell
+
+| Skill | Tags | Summary |
+| --- | --- | --- |
+| [shell-review](skills/shell/shell-review/SKILL.md) | review, shell, quoting | Review a shell diff for quoting, injection, and portability |
+| [shell-script](skills/shell/shell-script/SKILL.md) | shell, bash, posix | Write a portable POSIX or bash script with safe options and quoting |
 
 ## Use a skill
 

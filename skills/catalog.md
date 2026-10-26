@@ -50,3 +50,12 @@ Python work: review patches and run tests the way the repo already does.
 | --- | --- | --- |
 | [pytest](python/pytest/SKILL.md) | pytest, testing, python | Run and write pytest tests using the project’s existing config |
 | [python-review](python/python-review/SKILL.md) | review, python, testing | Review a Python diff for bugs, API misuse, missing tests, and dependency changes |
+
+## shell
+
+Shell scripts: write portable scripts and review quoting, options, and injection.
+
+| Name | Tags | Summary |
+| --- | --- | --- |
+| [shell-review](shell/shell-review/SKILL.md) | review, shell, quoting | Review a shell diff for quoting bugs, unsafe options, injection, and portability |
+| [shell-script](shell/shell-script/SKILL.md) | shell, bash, posix | Write a portable POSIX or bash script with safe options and quoting |
